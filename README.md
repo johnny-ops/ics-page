@@ -10,7 +10,7 @@ A modern, responsive website for the Institute of Computing Studies built with R
 - **Mission & Vision**: Clearly presented institutional goals and objectives
 - **Professional Icons**: Using React Icons (Font Awesome) throughout
 - **Smooth Animations**: Subtle hover effects and transitions
-ddd
+
 ## Tech Stack
 
 - React 18.2.0
